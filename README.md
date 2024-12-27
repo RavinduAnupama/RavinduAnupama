@@ -10,20 +10,14 @@ I am a full-stack developer
 ---
 <div align="d-flex justify-content-left">
   <h2>Connect with me</h2>
-  <a href="https://github.com/your_username" target="_blank">
+  <a href="https://github.com/RavinduAnupama" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_profile" target="_blank">
+  <a href="https://www.linkedin.com/in/RavinduAnupama" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/your_facebook_profile" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/your_instagram_profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://hashnode.com/@your_hashnode_username" target="_blank">
-    <img src="https://img.shields.io/badge/-Hashnode-29b2f5?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
 </div>
 ---
