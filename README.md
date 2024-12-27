@@ -29,7 +29,7 @@ I am a full-stack developer
 </p>
 
 ---
-<!--
-### Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
--->
+<div align="center">
+  <h2>Most Used Languages:</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanathGunarathna&layout=compact" alt="Most Used Languages">
+</div>
