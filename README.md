@@ -33,5 +33,5 @@ I am a full-stack developer
 
 ## Most Used Languages
 
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['HTML','PHP','JavaScript','CSS','TypeScript','Java'],datasets:[{data:[40,20,7.5,20,10,2.5]}]}}&w=500&h=300" alt="Most Used Languages Chart" width="100%">
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['HTML','PHP','JavaScript','CSS','TypeScript','Java'],datasets:[{data:[40,20,7.5,20,10,2.5]}]}}&w=500&h=300" alt="Most Used Languages Chart" width="50%">
 
