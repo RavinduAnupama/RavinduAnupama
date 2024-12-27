@@ -13,7 +13,7 @@ I am a full-stack developer
   <a href="https://github.com/RavinduAnupama" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/RavinduAnupama" target="_blank">
+  <a href="https://www.linkedin.com/in/ravindu-anupama" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="#" target="_blank">
