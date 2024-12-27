@@ -15,7 +15,7 @@ I am a full-stack developer
 </p>
 
 ---
-
+<!--
 ### Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
-
+-->
