@@ -29,7 +29,37 @@ I am a full-stack developer
 </p>
 
 ---
-<div align="center">
-  <h2>Most Used Languages:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanathGunarathna&layout=compact" alt="Most Used Languages">
-</div>
+<h2>Most Used Languages</h2>
+
+<table border=0 style="border: 1px solid #ddd; border-collapse: collapse;">
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: left;">HTML</td>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: right;">40%</td>
+        <td style="border: 1px solid #ddd; padding: 5px;"><span style="background-color: #e25e21; display: inline-block; width: 58.53%; height: 10px;"></span></td>
+    </tr>
+  <tr>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: left;">PHP</td>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: right;">20%</td>
+        <td style="border: 1px solid #ddd; padding: 5px;"><span style="background-color: #007acc; display: inline-block; width: 6.72%; height: 10px;"></span></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: left;">JavaScript</td>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: right;">7.5%</td>
+        <td style="border: 1px solid #ddd; padding: 5px;"><span style="background-color: #f1e05a; display: inline-block; width: 19.8%; height: 10px;"></span></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: left;">CSS</td>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: right;">20%</td>
+        <td style="border: 1px solid #ddd; padding: 5px;"><span style="background-color: #6a33ff; display: inline-block; width: 10.69%; height: 10px;"></span></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: left;">TypeScript</td>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: right;">10%</td>
+        <td style="border: 1px solid #ddd; padding: 5px;"><span style="background-color: #007acc; display: inline-block; width: 6.72%; height: 10px;"></span></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: left;">Java</td>
+        <td style="border: 1px solid #ddd; padding: 5px; text-align: right;">2.5%</td>
+        <td style="border: 1px solid #ddd; padding: 5px;"><span style="background-color: #b38400; display: inline-block; width: 4.26%; height: 10px;"></span></td>
+    </tr>
+</table>
