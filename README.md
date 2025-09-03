@@ -7,6 +7,20 @@ I am a full-stack developer
 - 🚀 I’m currently learning Codeigniter / React / React Native / NodeJs / MongoDB.
 - 🎮 In my free time, I enjoy gaming and having fun. 
 - 📫 How to reach me *ravinduanupama30@gmail.com* 
+---
+## 💼 Work Experience
+
+### Software Developer - ABC Company
+🗓️ July 2025 - Present  
+- Developed web applications using **Laravel** .  
+- Managed **mySql** databases and optimized queries.  
+- Collaborated in Dforty teams to deliver projects on time.
+
+### Intern Web Developer - Nanosoft Soliution (PVT) Ltd
+🗓️ Jan 2025 - July 2025  
+- Built responsive websites with **Bootstrap** / **HTML** / **CSS**.
+- Built responsive Web Application with  **Bootstrap** / **HTML** / **CSS** / **PHP** / **mySql** 
+- Maintained GitHub repos and handled version control.
 
 ---
 <div align="d-flex justify-content-left">
