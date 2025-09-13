@@ -10,7 +10,7 @@ I am a full-stack developer
 ---
 ## 💼 Work Experience
 
-### Software Developer - ABC Company
+### Software Developer - Nanosoft Soliution (PVT) Ltd
 🗓️ July 2025 - Present  
 - Developed web applications using **Laravel** .  
 - Managed **mySql** databases and optimized queries.  
