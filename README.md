@@ -9,7 +9,7 @@ I am a full-stack developer
 - 📫 How to reach me *ravinduanupama30@gmail.com* 
 ---
 ##  E-Cetifications
-![Web Designer for Beginners Certificate](https://github.com/RavinduAnupama/RavinduAnupama/blob/main/E-Cetificates/Web_Design_for_Beginners_E-Certificate.pdf))
+![Web Designer for Beginners Certificate](https://github.com/RavinduAnupama/RavinduAnupama/blob/main/E-Cetificates/Web_Design_for_Beginners_E-Certificate.pdf)
 
 
 ## 💼 Work Experience
