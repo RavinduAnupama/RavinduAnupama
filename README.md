@@ -41,34 +41,57 @@ I am a full-stack developer
 </div>
 ---
 
-### Languages and Tools:  
+<h3 align="left">🛠️ Languages & Tools</h3>
+
 <p align="left">
-<!--arduino-->
-<!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> -->
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-<!-- CodeIgniter -->
-<a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a>
-<!-- React -->
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<!-- Canva -->
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="canva" width="40" height="40" style="fill:#00C4CC;"/> 
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>--> 
-<a href="https://laravel.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://laravel.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+  <a href="https://codeigniter.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codeigniter" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=photoshop" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
 </p>
 
 ---
